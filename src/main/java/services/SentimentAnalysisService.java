@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 public class SentimentAnalysisService {
 
-    private static final String API_KEY = "LiC71OIWbaqeHVVl4ZshEzRMaoOsFbJi";
+    private static final String API_KEY = "";
     private static final String API_URL = "https://api.apilayer.com/sentiment/analysis";
 
     public enum Sentiment { POSITIVE, NEGATIVE, NEUTRAL, UNKNOWN }
