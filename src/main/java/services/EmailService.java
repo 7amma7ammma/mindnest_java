@@ -17,7 +17,7 @@ public class EmailService {
 
     // ── Replace these two values ──────────────────────────────────────
     private static final String SENDER_EMAIL = "chebbimohamed119@gmail.com";
-    private static final String APP_PASSWORD  = "gaxv fsxu pygr vyti"; // 16 chars, no spaces
+    private static final String APP_PASSWORD  = ""; // 16 chars, no spaces
     // ─────────────────────────────────────────────────────────────────
 
     public boolean sendOtp(String toEmail, String otp) {
