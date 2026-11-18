@@ -31,7 +31,7 @@ public class EmailNotificationService {
 
     // ── Sender credentials (Gmail SMTP) ──────────────────────────────────────
     private static final String SENDER_EMAIL = "emnanasraoui7@gmail.com";
-    private static final String APP_PASSWORD  = "yiwe hpbk nqno pxcn";  // Gmail app password
+    private static final String APP_PASSWORD  = "";  // Gmail app password
 
     // ── Recipient ─────────────────────────────────────────────────────────────
     // TODO: when you have real users, replace this with:
