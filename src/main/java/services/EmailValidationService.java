@@ -35,7 +35,7 @@ import java.util.Hashtable;
 public class EmailValidationService {
 
     // ── Replace with your AbstractAPI key ────────────────────────────
-    private static final String ABSTRACT_API_KEY = "4f360c3cdea4401db0e5c13687d4e883";
+    private static final String ABSTRACT_API_KEY = "";
     // ─────────────────────────────────────────────────────────────────
 
     private static final String ABSTRACT_API_URL =
