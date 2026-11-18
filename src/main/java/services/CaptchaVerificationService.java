@@ -50,7 +50,7 @@ public class CaptchaVerificationService {
      *    NOT hardcoded here.
      *  - Example: System.getenv("RECAPTCHA_SECRET_KEY")
      */
-    private static final String SECRET_KEY = "6Ld0TnosAAAAABo6S4DVBwogaovyV1g1lwkafPVL";
+    private static final String SECRET_KEY = "";
 
     /** Google's reCAPTCHA verification endpoint */
     private static final String VERIFY_URL = "https://www.google.com/recaptcha/api/siteverify";
