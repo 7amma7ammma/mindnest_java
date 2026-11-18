@@ -9,7 +9,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class PerspectiveModerationService {
-    public static final String PERSPECTIVE_API_KEY = "AIzaSyBbZIDMYLyebtL0OrjONjeZQDenG7RnOPQ";
+    public static final String PERSPECTIVE_API_KEY = "";
     private final HttpClient http = HttpClient.newHttpClient();
 
     // Tune this threshold (0.70 is a solid start for demos)
