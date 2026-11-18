@@ -22,7 +22,7 @@ import java.util.regex.Pattern;
 public class YouTubeImportService {
 
     // ✅ put your API key here
-    private static final String YOUTUBE_API_KEY = "AIzaSyBbZIDMYLyebtL0OrjONjeZQDenG7RnOPQ";
+    private static final String YOUTUBE_API_KEY = "";
 
     private static final String API = "https://www.googleapis.com/youtube/v3/search";
     private static final Duration TIMEOUT = Duration.ofSeconds(25);
